@@ -22,14 +22,14 @@
 
 # 如何准备
 
-1. 抓取![clone](https://github.com/cs-course/data-center-course-assignment-2018/blob/master/clone.png?raw=true)此仓库，关于git使用，请参考[git-tutorial](https://github.com/cs-course/git-tutorial)
+1. 抓取![clone](./clone.png?raw=true)此仓库，关于git使用，请参考[git-tutorial](https://github.com/cs-course/git-tutorial)
 2. 进入仓库文件夹，建立**以论文号命名**的文件夹，在里面创建作业文件，其中：PPT文件命名为*presentation.(ppt|pptx|pdf)*，综述报告命名为*survey.(doc|docx|pdf)*
 
 # 如何提交
 
 ## 电子版
 
-在github上发起pull![pull](https://github.com/cs-course/data-center-course-assignment-2018/blob/master/pull-request.png?raw=true)，或者直接fork![fork](https://github.com/cs-course/data-center-course-assignment-2018/blob/master/fork.png?raw=true)后，本地完成更新、提交、推送，给我Merge
+在github上发起pull![pull](./pull-request.png?raw=true)，或者直接fork![fork](./fork.png?raw=true)后，本地完成更新、提交、推送，给我Merge
 
 ## 纸质版
 
