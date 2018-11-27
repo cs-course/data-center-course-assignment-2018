@@ -1,2 +1,5 @@
-论文编号	题目	会议	姓名	班级	学号	课堂汇报顺序
-57	Solar: Towards a Shared-Everything Database on Distributed Log-Structured Storage	ATC18	秦琅	硕1807班	M201872993	16
+
+| 论文标题                                                   | 出处   | 论文号 | 姓名   |班级| 学号       | 最终排序 |
+| ---------------------------------------------------------- | ------ | ------ | ------ |---|---------- | -------- |
+| Solar: Towards a Shared-Everything Database on Distributed Log-Structured Storage | ATC18 |57 |秦琅 | 国光硕1807班|M201872993 | 16       |
+
