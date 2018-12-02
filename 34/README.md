@@ -1,4 +1,4 @@
 | 论文标题                                                                  | 出处  | 论文号 | 姓名 | 学号       | 最终排序 |
 | --------------------------------------------------------------------------| ----- | ------ | ---- | ---------- | -------- |
-| Improving Service Availability of Cloud Systems by Predicting Disk Error  | ATC18 | 35     | 张游 | M201873223 | 5        |
+| Improving Service Availability of Cloud Systems by Predicting Disk Error  | ATC18 | 34     | 张游 | M201873223 | 5        |
 
